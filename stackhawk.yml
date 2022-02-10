@@ -1,0 +1,4 @@
+app :
+applicationId : f1e2bbc7-dd73-4e45-8530-61d2a95b6d14
+host : http://192.168.182.1
+env : Development
